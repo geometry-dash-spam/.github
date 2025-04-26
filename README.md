@@ -1,6 +1,6 @@
 # Geometry Dash Spam Challenge
 
-![Geometry Dash Spam](https://raw.githubusercontent.com/geometry-games/geometry-dash-spam/refs/heads/main/geometry-dash-spam.png "Geometry Dash Spam")
+![Geometry Dash Spam](https://raw.githubusercontent.com/geometry-dash-spam/.github/refs/heads/main/geometry-dash-spam.png "Geometry Dash Spam")
 
 🔥🔥 Play now: [Geometry Dash Spam](https://geometrydashgames.io/geometry-dash-spam/ "Geometry Dash Spam")
 
